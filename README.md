@@ -1,40 +1,27 @@
-# Hi, I'm Amir
+# 💫 About Me:
+🔭 I’m currently working on<br>Building data-driven trading tools, improving my crypto trade journaling system, and developing foundational data science and AI projects in Python.<br><br>👯 I’m looking to collaborate on<br>Beginner-to-intermediate projects in data analysis, machine learning fundamentals, and trading-related analytics or automation.<br><br>🤝 I’m looking for help with<br>Improving my AI learning path, writing more production-quality Python code, and designing scalable data pipelines for analysis and backtesting.<br><br>🌱 I’m currently learning<br>Data science fundamentals, machine learning basics, algorithmic thinking, and applied AI concepts using Python.<br><br>💬 Ask me about<br>Crypto trading workflows, trade journaling and performance analysis, Python fundamentals, and learning strategies for engineering and quantitative fields.<br><br>⚡ Fun fact<br>I’m interested in how human psychology affects decision-making in both trading and system design, and I actively study both alongside programming.<br><br># Hi, I'm Amir<br><br>I am a computer engineering student with a strong interest in artificial intelligence, data science, and algorithmic trading. <br>My focus is on building practical, system-oriented projects that combine programming, data analysis, and quantitative thinking.<br><br>I have an intermediate background in programming and trading, and I am currently strengthening my foundations in data science and AI with hands-on projects and structured daily practice.<br><br>## Technical Skills<br>- **Languages:** Python, C, C++, SQL  <br>- **Data Science & AI:** NumPy, Pandas, data visualization, machine learning fundamentals  <br>- **Trading & Quant:** trade journaling, performance analysis, risk metrics, crypto market analysis  <br>- **Tools:** Git, PyCharm, VS Code, Excel  <br>- **Foundations:** algorithms, data structures, systems programming<br><br>## Featured Projects<br>### Crypto Trading Journal (Excel + Python)<br>A customized trade journaling system designed for crypto trading.  <br>Includes structured logging, performance metrics, risk analysis, and post-trade evaluation.<br><br>### Data Science & AI Learning Projects<br>A growing collection of Python-based experiments covering:<br>- data cleaning and analysis<br>- exploratory data analysis<br>- basic machine learning models<br>- applied problem-solving<br><br>### C / C++ Programming Practice<br>Low-level programming exercises focused on memory management, pointers, control flow, and core systems concepts.<br><br>## Current Focus<br>- Building strong fundamentals in data science and AI  <br>- Developing disciplined, data-driven trading workflows  <br>- Studying algorithms, systems thinking, and human psychology  <br>- Preparing for a focused learning and trading year before university<br><br>## Learning Philosophy<br>I prioritize understanding fundamentals, writing clean code, and building systems that can be analyzed, improved, and scaled over time.<br><br>## Contact<br>- **GitHub:** this profile<br>
 
-I am a computer engineering student with a strong interest in artificial intelligence, data science, and algorithmic trading. 
-My focus is on building practical, system-oriented projects that combine programming, data analysis, and quantitative thinking.
 
-I have an intermediate background in programming and trading, and I am currently strengthening my foundations in data science and AI with hands-on projects and structured daily practice.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Amr866#2809) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@a.m.r.866) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amirhossein-mohammadi-275476286/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Amir1310311) 
 
-## Technical Skills
-- **Languages:** Python, C, C++, SQL  
-- **Data Science & AI:** NumPy, Pandas, data visualization, machine learning fundamentals  
-- **Trading & Quant:** trade journaling, performance analysis, risk metrics, crypto market analysis  
-- **Tools:** Git, PyCharm, VS Code, Excel  
-- **Foundations:** algorithms, data structures, systems programming
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=flat&logo=fastlane&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amr866&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=amr866&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amr866&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Featured Projects
-### Crypto Trading Journal (Excel + Python)
-A customized trade journaling system designed for crypto trading.  
-Includes structured logging, performance metrics, risk analysis, and post-trade evaluation.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amr866&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### Data Science & AI Learning Projects
-A growing collection of Python-based experiments covering:
-- data cleaning and analysis
-- exploratory data analysis
-- basic machine learning models
-- applied problem-solving
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### C / C++ Programming Practice
-Low-level programming exercises focused on memory management, pointers, control flow, and core systems concepts.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=amr866&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-## Current Focus
-- Building strong fundamentals in data science and AI  
-- Developing disciplined, data-driven trading workflows  
-- Studying algorithms, systems thinking, and human psychology  
-- Preparing for a focused learning and trading year before university
+---
+[![](https://visitcount.itsvg.in/api?id=amr866&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Learning Philosophy
-I prioritize understanding fundamentals, writing clean code, and building systems that can be analyzed, improved, and scaled over time.
-
-## Contact
-- **GitHub:** this profile
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
