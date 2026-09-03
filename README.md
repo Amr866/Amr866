@@ -1,2 +1,55 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building data-driven trading tools, improving my crypto trade journaling system, and developing foundational data science and AI projects in Python.<br><br>👯 I’m looking to collaborate on<br>Beginner-to-intermediate projects in data analysis, machine learning fundamentals, and trading-related analytics or automation.<br><br>🤝 I’m looking for help with<br>Improving my AI learning path, writing more production-quality Python code, and designing scalable data pipelines for analysis and backtesting.<br><br>🌱 I’m currently learning<br>Data science fundamentals, machine learning basics, algorithmic thinking, and applied AI concepts using Python.<br><br>💬 Ask me about<br>Crypto trading workflows, trade journaling and performance analysis, Python fundamentals, and learning strategies for engineering and quantitative fields.<br><br>⚡ Fun fact<br>I’m interested in how human psychology affects decision-making in both trading and system design, and I actively study both alongside programming.<br><br># Hi, I'm Amir<br><br>I am a computer engineering student with a strong interest in artificial intelligence, data science, and algorithmic trading. <br>My focus is on building practical, system-oriented projects that combine programming, data analysis, and quantitative thinking.<br><br>I have an intermediate background in programming and trading, and I am currently strengthening my foundations in data science and AI with hands-on projects and structured daily practice.<br><br>## Technical Skills<br>- **Languages:** Python, C, C++, SQL  <br>- **Data Science & AI:** NumPy, Pandas, data visualization, machine learning fundamentals  <br>- **Trading & Quant:** trade journaling, performance analysis, risk metrics, crypto market analysis  <br>- **Tools:** Git, PyCharm, VS Code, Excel  <br>- **Foundations:** algorithms, data structures, systems programming<br><br>## Featured Projects<br>### Crypto Trading Journal (Excel + Python)<br>A customized trade journaling system designed for crypto trading.  <br>Includes structured logging, performance metrics, risk analysis, and post-trade evaluation.<br><br>### Data Science & AI Learning Projects<br>A growing collection of Python-based experiments covering:<br>- data cleaning and analysis<br>- exploratory data analysis<br>- basic machine learning models<br>- applied problem-solving<br><br>### C / C++ Programming Practice<br>Low-level programming exercises focused on memory management, pointers, control flow, and core systems concepts.<br><br>## Current Focus<br>- Building strong fundamentals in data science and AI  <br>- Developing disciplined, data-driven trading workflows  <br>- Studying algorithms, systems thinking, and human psychology  <br>- Preparing for a focused learning and trading year before university<br><br>## Learning Philosophy<br>I prioritize understanding fundamentals, writing clean code, and building systems that can be analyzed, improved, and scaled over time.<br><br>## Contact<br>- **GitHub:** this profile<br>
+# Hi, I'm Amirhossein Mohammadi 👋
+### Computer Engineering Student & Junior Backend Developer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amirhossein%20Mohammadi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadi-amirhossein/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amirhossein.mohammadi.dev@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Isfahan%20%7C%20Relocating%20to%20Germany%20🇩🇪%20(2027)-informational?style=flat-square)](https://www.linkedin.com/in/mohammadi-amirhossein/)
+
+---
+
+## 🚀 About Me
+
+I am a **Computer Engineering B.Sc. student** at Mohajer Technical and Vocational University with a focus on **Backend Software Engineering**. I build robust, structured RESTful APIs, data-intensive backends, and relational database systems.
+
+My background is grounded in core computer science fundamentals—including data structures, algorithm design, operating systems, and systems programming—giving me a strong appreciation for clean architecture, database optimization, and performance.
+
+- 🔭 **Current Focus:** Building production-grade REST APIs in Python & SQL, practicing containerized workflows with Docker, and studying systems architecture.
+- 🎯 **Short-term Goal:** Seeking a Backend Developer Internship (کارآموزی) or Junior Software Engineer role in Iran.
+- 🇩🇪 **Long-term Trajectory:** Completing foundational coursework ahead of university transfer and relocation to Germany in 2027 (actively learning German).
+- 💬 **Ask me about:** Backend architecture, SQL query optimization, Python development, and trade journaling systems.
+
+---
+
+## 🛠 Tech Stack & Core Competencies
+
+| Domain | Technologies & Skills |
+| :--- | :--- |
+| **Backend & Programming** | Python (FastAPI, Flask, OOP), Java, C++, C |
+| **Databases & Data** | PostgreSQL, SQL, Relational Schema Design, Query Optimization, Window Functions |
+| **DevOps & Tools** | Docker, Git, GitHub, Linux / Shell, Postman, VS Code, PyCharm |
+| **CS Foundations** | Data Structures & Algorithms, Operating Systems, Computer Networks, Systems Programming |
+
+---
+
+## 📂 Featured Projects
+
+### 📊 [SQL Job Market Analysis (2023 Data)](https://github.com/Amr866/SQL_Job_Analysis_2023)
+* **Stack:** PostgreSQL, Advanced SQL (CTEs, Window Functions, Complex Joins)
+* Comprehensive data analysis querying tens of thousands of tech job postings to identify top-paying software roles, in-demand technical skills, and market salary benchmarks.
+
+### 📈 Crypto Trade Journal & Risk Analytics Engine
+* **Stack:** Python, Excel Data Modeling, Relational Logging, Performance Analytics
+* End-to-end trade tracking and performance evaluation framework. Calculates automated metrics (Win Rate, Profit Factor, Risk-to-Reward, Maximum Drawdown) to eliminate emotional execution bias and enforce risk management rules.
+
+### ⚙️ Systems & Low-Level Programming Practice
+* **Stack:** C, C++, Data Structures, Memory Management
+* Implementations of fundamental data structures (linked lists, trees, hash maps, sorting algorithms) focusing on dynamic memory allocation, pointer manipulation, and algorithmic efficiency.
+
+---
+
+## 📫 Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/mohammadi-amirhossein](https://www.linkedin.com/in/mohammadi-amirhossein/)
+- **GitHub:** [github.com/Amr866](https://github.com/Amr866)
+
+⭐ *Feel free to explore my repositories or reach out for collaboration!*
