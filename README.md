@@ -2,7 +2,7 @@
 ### Computer Engineering Student & Junior Backend Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amirhossein%20Mohammadi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadi-amirhossein/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amirhossein.mohammadi.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amrmohammadi86@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Isfahan%20%7C%20Relocating%20to%20Germany%20🇩🇪%20(2027)-informational?style=flat-square)](https://www.linkedin.com/in/mohammadi-amirhossein/)
 
 ---
